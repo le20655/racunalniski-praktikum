@@ -59,3 +59,12 @@ h2 {
     width: 100%;
     height: auto;
 }
+
+.slika p:last-child {
+    font-size: 1000000.8em;
+    background-color: #660066;
+}
+
+.slika p:nth-child(odd) {
+  color: #666;
+}
