@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1762967157.24546 "c:/Users/lenar/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" "urnik.pdf" "urnik" 1762967158.22157 0
+["pdflatex"] 1762967333.38703 "c:/Users/lenar/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" "urnik.pdf" "urnik" 1762967334.80783 0
   "C:/Users/lenar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762959876 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/lenar/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk" 1762959897 22504 8489dcddf76b1fffb4be9f202551e678 ""
   "C:/Users/lenar/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1762959884 25420 8cd45960a293bc2395fa178e019dc12a ""
@@ -55,9 +55,9 @@
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1705273578 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/tex/latex/base/t1cmtt.fd" 1705273578 2443 790016d75def8d3127df5c216a45abcc ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
-  "c:/Users/lenar/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" 1762967156 24836 5817611c086144265cec2d5ef4bc79ee ""
-  "urnik.aux" 1762967157 1576 83e17598018e2fc671b3fcbd2d0282fc "pdflatex"
-  "urnik.tex" 1762967156 24836 5817611c086144265cec2d5ef4bc79ee ""
+  "c:/Users/lenar/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" 1762967332 24783 27049076262f2a321ac94a843124ca6f ""
+  "urnik.aux" 1762967334 1576 83e17598018e2fc671b3fcbd2d0282fc "pdflatex"
+  "urnik.tex" 1762967332 24783 27049076262f2a321ac94a843124ca6f ""
   (generated)
   "urnik.aux"
   "urnik.log"
