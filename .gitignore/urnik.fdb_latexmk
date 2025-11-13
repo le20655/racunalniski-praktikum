@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1762967333.38703 "c:/Users/lenar/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" "urnik.pdf" "urnik" 1762967334.80783 0
+["pdflatex"] 1763049241.21958 "c:/Users/lenar/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" "urnik.pdf" "urnik" 1763049242.42983 0
   "C:/Users/lenar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762959876 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/lenar/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk" 1762959897 22504 8489dcddf76b1fffb4be9f202551e678 ""
   "C:/Users/lenar/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1762959884 25420 8cd45960a293bc2395fa178e019dc12a ""
@@ -17,6 +17,8 @@
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993061956 3200 328792ff19833a39406f06fa0555a6dc ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993061958 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993061960 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
+  "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm0500.tfm" 993062114 3160 7643a152c0e9200a0a8161b2bb3a452d ""
+  "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm0700.tfm" 993062116 3168 c739b83da3134ef1007979877c1089cf ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm0900.tfm" 993062120 3156 6d4f5755d77638125f6f89de4f3bb757 ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
@@ -37,6 +39,12 @@
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
+  "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/lenar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1704647332 150008 7a05b0fdc0167c04e192003e780ab195 ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/sl/babel-sl.ini" 1704647337 3997 e341121ef7374c38d90d55d90679cb39 ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/sl/babel-slovene.tex" 1704647337 336 c6043a95f3aa21d50126b36c87a3ddb4 ""
@@ -55,9 +63,9 @@
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1705273578 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/tex/latex/base/t1cmtt.fd" 1705273578 2443 790016d75def8d3127df5c216a45abcc ""
   "C:/Users/lenar/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
-  "c:/Users/lenar/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" 1762967332 24783 27049076262f2a321ac94a843124ca6f ""
-  "urnik.aux" 1762967334 1576 83e17598018e2fc671b3fcbd2d0282fc "pdflatex"
-  "urnik.tex" 1762967332 24783 27049076262f2a321ac94a843124ca6f ""
+  "c:/Users/lenar/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" 1763049240 25179 c5efb485a0428530a54530cb5d3d6a08 ""
+  "urnik.aux" 1763049242 1576 83e17598018e2fc671b3fcbd2d0282fc "pdflatex"
+  "urnik.tex" 1763049240 25179 c5efb485a0428530a54530cb5d3d6a08 ""
   (generated)
   "urnik.aux"
   "urnik.log"
